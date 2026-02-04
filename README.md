@@ -19,6 +19,13 @@ A lightweight, from-scratch implementation of a Word2vec-based language model tr
 1. **Training:**
    ```bash
    python train.py
+2. **Evaluation (Similarity & Vector Arithmetic):**
+   ```bash
+   python test.py
+3. **Generation:**
+   ```bash
+   python generate.py
+
 
 ## Dataset
 The training corpus used in this project is sourced from **Project Gutenberg's** version of *Romeo and Juliet* by William Shakespeare. 
