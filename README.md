@@ -19,3 +19,8 @@ A lightweight, from-scratch implementation of a Word2vec-based language model tr
 1. **Training:**
    ```bash
    python train.py
+
+## Dataset
+The training corpus used in this project is sourced from **Project Gutenberg's** version of *Romeo and Juliet* by William Shakespeare. 
+
+> **Note:** This project is for educational purposes, exploring the fundamentals of Natural Language Processing (NLP).
