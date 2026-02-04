@@ -1,0 +1,4 @@
+*.npy
+*.pkl
+/.history
+/__pycache__/
